@@ -1,0 +1,22 @@
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.exe.config
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.exe
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.pdb
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.Form1.resources
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.Properties.Resources.resources
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.exe
+C:\Users\Aluno\source\repos\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.pdb
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.exe.config
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.exe
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\bin\Debug\calculadora_simples.pdb
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.AssemblyReference.cache
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.Form1.resources
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.Properties.Resources.resources
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.GenerateResource.cache
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.CoreCompileInputs.cache
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.exe
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.pdb
+D:\ETEC\2°Ano\Técnico\Desenvolvimento de Sistemas (DS)\calculadora_simples\calculadora_simples\obj\Debug\calculadora_simples.csproj.SuggestedBindingRedirects.cache
